@@ -13,7 +13,7 @@ setup(
     description="Opensource python wrapper to Sarufi Conversation API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Neurotech-HQ/sarufi-python-sdk",
+    url="https://github.com/aliozturkseksen/sarufi-python-sdk.git",
     download_url="https://github.com/Neurotech-HQ/sarufi-python-sdk/archive/refs/tags/v0.0.2.tar.gz",
     author="Jordan Kalebu",
     author_email="aliozturkseksen@gmail.com",
