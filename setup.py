@@ -16,7 +16,7 @@ setup(
     url="https://github.com/Neurotech-HQ/sarufi-python-sdk",
     download_url="https://github.com/Neurotech-HQ/sarufi-python-sdk/archive/refs/tags/v0.0.2.tar.gz",
     author="Jordan Kalebu",
-    author_email="isaackeinstein@gmail.com",
+    author_email="aliozturkseksen@gmail.com",
     license="MIT",
     packages=["sarufi"],
     install_requires=["requests", "pyyaml", "python-telegram-bot"],
